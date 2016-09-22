@@ -6,4 +6,4 @@ A list of ipython notebook tutorials on (deep) RL methods, running on OpenAI Gym
 * Policy search CEM
 * Policy Gradient (REINFORCE)
 * Actor Critic: Deep actor-critic (deterministic and stochastic policy) with various baselines)
-* Natural Actor critic
+* Natural Policy Graident
